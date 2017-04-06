@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>stereocalib/left1.jpg</file>
+        <file>stereocalib/left2.jpg</file>
+        <file>stereocalib/left3.jpg</file>
+        <file>stereocalib/left4.jpg</file>
+        <file>stereocalib/left5.jpg</file>
+        <file>stereocalib/left6.jpg</file>
+        <file>stereocalib/left7.jpg</file>
+        <file>stereocalib/left8.jpg</file>
+        <file>stereocalib/left9.jpg</file>
+        <file>stereocalib/left10.jpg</file>
+        <file>stereocalib/right1.jpg</file>
+        <file>stereocalib/right2.jpg</file>
+        <file>stereocalib/right3.jpg</file>
+        <file>stereocalib/right4.jpg</file>
+        <file>stereocalib/right5.jpg</file>
+        <file>stereocalib/right6.jpg</file>
+        <file>stereocalib/right7.jpg</file>
+        <file>stereocalib/right8.jpg</file>
+        <file>stereocalib/right9.jpg</file>
+        <file>stereocalib/right10.jpg</file>
+    </qresource>
+</RCC>
